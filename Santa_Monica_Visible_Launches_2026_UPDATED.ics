@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//SMM Visible Launches//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santa Monica Visible Launches 2026
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Rocket launches expected to be visible from the Santa Monica M
+ ountains (primarily Vandenberg SFB). Times and dates can change; check day
+ -of for final confirmation. Sources: RocketLaunch.org + Space Launch Sched
+ ule.
+BEGIN:VEVENT
+UID:af3ab182-bb50-4f36-aa8e-65a79daeb5de@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Starlink Group 17-25 (SLC-4E)
+DTSTART:20260221T090000Z
+DTEND:20260221T110000Z
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Scheduled time: Feb 21\, 2026 09:00 UTC.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Launch reminder (1 hour)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b4161de-4bbc-488e-9ea3-e6ee74082b6e@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Starlink Group 17-26 (SLC-4E)
+DTSTART:20260224T140000Z
+DTEND:20260224T160000Z
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Scheduled time: Feb 24\, 2026 14:00 UTC.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Launch reminder (1 hour)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:77530277-f66e-4f63-b515-47c4375e72c4@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Firefly Alpha — Stairway to Seven (SLC-2W)
+DTSTART:20260228T005000Z
+DTEND:20260228T025000Z
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Scheduled time: Feb 28\, 2026 00:50 UTC.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Launch reminder (1 hour)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8361115e-1fc8-4279-9380-3a609a255728@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Starlink Group 17-23 (SLC-4E)
+DTSTART:20260228T080000Z
+DTEND:20260228T100000Z
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Scheduled time: Feb 28\, 2026 08:00 UTC.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Launch reminder (1 hour)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8350ad66-4ce1-4f07-b59d-56a056a1e4ae@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Starlink Group 17-18 (SLC-4E)
+DTSTART:20260303T105800Z
+DTEND:20260303T125800Z
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Scheduled time: Mar 3\, 2026 10:58 UTC.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Launch reminder (1 hour)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4edc84f-4e1d-4174-ac20-7d12042ab208@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Transporter 16 (Dedicated SSO Rideshare) (Projected)
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch date: Mar 29\, 2026. Time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b7e940b-380d-4663-8e48-bfa92c73b806@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Transport Layer A (Projected)
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:93b808cb-5f60-40f0-802a-93bfbf15c242@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Transport Layer D (Projected)
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea9da100-6f0c-4af3-a09b-f183ed8b755f@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Transport Layer E (Projected)
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd8a5e6-5045-4e7a-8922-4b8e4b0f33be@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Transport Layer F (Projected)
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c505510-f726-4d2d-aae0-91cc263550b0@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Minotaur IV — STP-S29A (Projected)
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch date: Apr 7\, 2026. Time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:49324f76-48ce-4a5f-87d5-6c1fe4e6b490@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Tracking Layer A (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:55b4d7ff-03ba-4549-8f73-62898f44f2b4@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Tracking Layer C (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:10689795-a7fe-4418-ad8c-b1729b52a5a1@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 1 Tracking Layer E (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b1a2de-4efd-46f7-97a3-33e0ec5d5069@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — SDA Tranche 1 Tracking Layer B (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:380fbf03-ed0c-4d45-bebe-899e0dd733ca@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — SDA Tranche 1 Tracking Layer D (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:63fa2608-8b4c-4b5a-b45b-0fc9011039a1@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 7 (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:77b9e409-b20e-4eca-9f51-c27fada52280@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 8 (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d84378-5915-4301-baeb-1ba3ff5dc440@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 9 (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3693d40-0472-423b-95e8-d7fbf1b590f1@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 10 (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:7954fd7b-5397-4257-8483-ad9c993601a6@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 11 (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fad991a-831f-4a62-bd8e-17e9350186e7@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 12 (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:c218a04c-6fb7-4db4-ad45-0234ad90c2ec@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Firefly Alpha — VICTUS HAZE Jackal (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:f716a842-d214-4afb-b110-f246c212d74f@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Transporter 17 (Dedicated SSO Rideshare) (Projected)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:36129822-ddad-42c3-8163-d635a51fc2c5@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 2 Transport Layer A (Projected)
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:19fa24cc-7e66-470e-87f2-0869ea57ba24@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Firefly Alpha Block 2 — QuickSounder (Projected)
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2b80a8-8555-4856-93c1-b5247307e3c6@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — SDA Tranche 2 Transport Layer B (Projected)
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:352501f4-025d-4e8e-93f0-cc16bc0d9211@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Transporter 18 (Dedicated SSO Rideshare) (Projected)
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb745884-d0cf-4970-b73a-3a99c53a430a@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — NROL-100 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e3b3740-8710-49e1-809e-ee74badaa71c@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — NROL-73 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:71713612-9400-4bb2-9648-8d2369f94c49@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — NROL-83 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc1981f1-d54c-441e-aa55-3e4d15979ae4@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — SDA Tranche 2 Transport Layer E (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9aaa12-f1c5-4669-b12e-368aed2b1bf8@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Vulcan — USSF-114 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0e9058-15ce-4787-8ea9-35a631b28728@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 1 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0a6757-4fff-466a-90c7-e99989792bc0@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 2 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:183a80a0-57e3-4908-bfa1-535e9937ccfb@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 3 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:be5980a4-6016-4f6a-b7aa-dfe862f951e1@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 4 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:2357b450-4cf5-414a-b3c0-7a69fb5e4327@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 5 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:f352981a-762f-40a6-b7a3-4c127e700ccd@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Falcon 9 — Rivada 6 (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+BEGIN:VEVENT
+UID:7afc2475-c4a8-4ab7-afb3-db38863bd05f@chatgpt
+DTSTAMP:20260221T012228Z
+SUMMARY:Firefly Alpha Block 2 — TacSat (Projected)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Vandenberg SFB\, CA (visible from Santa Monica Mountains)
+DESCRIPTION:Projected launch month\; date/time TBD.
+END:VEVENT
+END:VCALENDAR
